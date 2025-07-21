@@ -97,25 +97,6 @@ Nested      | Object with child fields | {}
 }
 }
 
-## Project Structure
-
-
-src/
-├── components/
-│ ├── SchemaBuilder/
-│ │ ├── SchemaBuilder.jsx
-│ │ ├── FieldRow.jsx
-│ │ ├── NestedField.jsx
-│ │ └── JsonPreview.jsx
-│ └── UI/
-├── hooks/
-│ ├── useSchemaBuilder.js
-│ └── useFieldManagement.js
-├── utils/
-│ ├── schemaHelpers.js
-│ └── validation.js
-├── styles/
-└── App.jsx
 
 ## Implementation Approach
 
